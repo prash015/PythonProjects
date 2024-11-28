@@ -1,1 +1,1 @@
-This repository contains some basic and functional Python project created by me.
+This repository contains some basic and functional Python projects created by me.
